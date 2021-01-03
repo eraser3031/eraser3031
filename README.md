@@ -1,4 +1,4 @@
-### Hi there 👋
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?eraser3031=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **eraser3031/eraser3031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
