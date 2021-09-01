@@ -1,4 +1,4 @@
-![Image of eraiser](https://github.com/eraser3031/Readme-Images/blob/master/eraiser.png)
-![Image of eraiser](https://github.com/eraser3031/Readme-Images/blob/master/AboutMe.png)
+![Image of eraiser](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FcgQvj6%2FbtrdM5OUrcN%2Fi3Obmx4SHgp6nsDQAsYcuk%2Fimg.png)
+![Image of eraiser](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2Fcct41c%2FbtrdMI7qjPq%2FM38e4pbnATIhOxvDAnKsyK%2Fimg.png)
 
 
