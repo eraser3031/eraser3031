@@ -1,8 +1,5 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eraser3031&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eraser3031&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**eraser3031/eraser3031** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Image of eraiser](https://github.com/eraser3031/Readme-Images/blob/master/eraiser_small.png)
+![Image of about me](https://raw.githubusercontent.com/eraser3031/Readme-Images/master/AboutMe.png?token=APGEUGJRIJY5RYL2UQFLLMLBF52FY)
 
 Here are some ideas to get you started:
 
