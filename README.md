@@ -1,6 +1,6 @@
 [![Image of eraiser](https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FEw41q%2FbtrdJ35wHZe%2FjSZvmWoFjRDcN3fV6s9is0%2Fimg.png)](https://www.behance.net/gallery/116006937/Eraiser?tracking_source=search_projects_recommended%7Ceraiser)
 
-[✨ **About Me**]() &nbsp;&nbsp;/&nbsp;&nbsp; [⬜️ **eraiser**](https://www.behance.net/gallery/116006937/Eraiser?tracking_source=search_projects_recommended%7Ceraiser) &nbsp;&nbsp;/&nbsp;&nbsp; [📄 **Resume**]()
+<!-- [✨ **About Me**]() &nbsp;&nbsp;/&nbsp;&nbsp; [⬜️ **eraiser**](https://www.behance.net/gallery/116006937/Eraiser?tracking_source=search_projects_recommended%7Ceraiser) &nbsp;&nbsp;/&nbsp;&nbsp; [📄 **Resume**]() -->
 ## **iOS Developer, &nbsp; Designer** 
 
 ### Skills
