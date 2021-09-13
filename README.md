@@ -5,7 +5,7 @@
 [👨🏻‍💻&nbsp;About Me(in progress)](https://joyous-operation-44e.notion.site/Yaehoon-Kim-15a43c4eef054da1a581ef19b2fdce1f)
 &nbsp;
 &nbsp;
-[📔&nbsp;Knowledge Library](https://joyous-operation-44e.notion.site/BOKEH-Library-244ddae4b1534002b67c9f78c493cec3)
+[📔&nbsp;Knowledge Library](https://eraiser.notion.site/BOKEH-Library-244ddae4b1534002b67c9f78c493cec3)
 
 
 
