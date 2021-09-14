@@ -2,7 +2,7 @@
 
 <!-- [✨ **About Me**]() &nbsp;&nbsp;/&nbsp;&nbsp; [⬜️ **eraiser**](https://www.behance.net/gallery/116006937/Eraiser?tracking_source=search_projects_recommended%7Ceraiser) &nbsp;&nbsp;/&nbsp;&nbsp; [📄 **Resume**]() -->
 ## **iOS Developer &nbsp; + &nbsp; Designer** 
-[👨🏻‍💻&nbsp;About Me(in progress)](https://joyous-operation-44e.notion.site/Yaehoon-Kim-15a43c4eef054da1a581ef19b2fdce1f)
+[👨🏻‍💻&nbsp;About Me(in progress)](https://eraiser.notion.site/Yaehoon-Kim-15a43c4eef054da1a581ef19b2fdce1f)
 &nbsp;
 &nbsp;
 [📔&nbsp;Knowledge Library](https://eraiser.notion.site/BOKEH-Library-244ddae4b1534002b67c9f78c493cec3)
