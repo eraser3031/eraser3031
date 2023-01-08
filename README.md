@@ -7,6 +7,8 @@
 &nbsp;
 [📔&nbsp;Knowledge Library](https://eraiser.notion.site/BOKEH-Library-244ddae4b1534002b67c9f78c493cec3)
 
+[![eraser2005](http://mazassumnida.wtf/api/generate_badge?boj=eraser2005)](https://solved.ac/eraser2005)
+
 #### Languages & Framework
 <span>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
