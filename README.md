@@ -1,6 +1,6 @@
 <!-- [✨ **About Me**]() &nbsp;&nbsp;/&nbsp;&nbsp; [⬜️ **eraiser**](https://www.behance.net/gallery/116006937/Eraiser?tracking_source=search_projects_recommended%7Ceraiser) &nbsp;&nbsp;/&nbsp;&nbsp; [📄 **Resume**]() -->
 ## **iOS Developer &nbsp; + &nbsp; Designer** 
-1998.10.03
+**1998.10.03**</br>
 [👨🏻‍💻&nbsp;About Me](https://yaehoonkim-resume.framer.website/)
 &nbsp;
 &nbsp;
